@@ -1,0 +1,15 @@
+[
+    {
+      "subject": "Calculus 1",
+      "teacher": "Teacher A",
+      "attendance": 85,
+      "color": "#00FF00"
+    },
+    {
+      "subject": "Political Science",
+      "teacher": "Teacher B",
+      "attendance": 60,
+      "color": "#FF0000"
+    }
+  ]
+  
